@@ -1,0 +1,74 @@
+[
+ {
+  "month": "October 2026",
+  "residential_rate": "15.0615",
+  "residential_rate_quote": "This brings the overall rate for a typical household to P15.0615 from P14.7424 per kWh in September.",
+  "generation_charge": "not in source",
+  "generation_quote": "",
+  "source_url": "https://company.meralco.com.ph/news-and-advisories/higher-residential-rates-october-2026"
+ },
+ {
+  "month": "OCTOBER 2026",
+  "residential_rate": "not in source",
+  "residential_rate_quote": "",
+  "generation_charge": "10.2005",
+  "generation_quote": "OCTOBER 2026 GENERATION CHARGE 10.2005",
+  "source_url": "https://meralcomain.s3.ap-southeast-1.amazonaws.com/2026-10/10-2026_gc_table_0.pdf"
+ },
+ {
+  "month": "OCTOBER 2026 BILLING MONTH",
+  "residential_rate": "not in source",
+  "residential_rate_quote": "",
+  "generation_charge": "not in source",
+  "generation_quote": "",
+  "source_url": "https://ileco3.com/wp-content/uploads/2026/10/AUR_202610.pdf"
+ },
+ {
+  "month": "October 2026",
+  "residential_rate": "not in source",
+  "residential_rate_quote": "",
+  "generation_charge": "7.6318",
+  "generation_quote": "TOTAL GENERATION RATE, PHP/KWH 7.6318",
+  "source_url": "https://morepower.com.ph/wp-content/uploads/2026/10/Generation-Charge_October-2026-Web-Upload.pdf"
+ },
+ {
+  "month": "OCTOBER 2026",
+  "residential_rate": "not in source",
+  "residential_rate_quote": "",
+  "generation_charge": "7.2549",
+  "generation_quote": "Blended Generation Rate (PhP/kWh) 7.2549",
+  "source_url": "https://angeleselectric.com.ph/wp-content/uploads/2026/10/OCTOBER-2026-Breakdown-of-Generation-Charge-Annex-A-1.pdf"
+ },
+ {
+  "month": "September 2026",
+  "residential_rate": "11.80",
+  "residential_rate_quote": "Residential ₱ 11.80 /kWh Decreased by ₱0.81/kWh compared with August 2026",
+  "generation_charge": "not in source",
+  "generation_quote": "",
+  "source_url": "https://www.beneco.com.ph/rates.php"
+ },
+ {
+  "month": "July 2026",
+  "residential_rate": "P13.09/kWh",
+  "residential_rate_quote": "The overall residential rate of Davao Light and Power Co., Inc. (Davao Light) for the billing period of July 11 to August 10, 2026 increased by P0.78 per kilowatt-hour (kWh), bringing the rate to P13.09/kWh from P12.30/kWh in the previous billing period.",
+  "generation_charge": "not in source",
+  "generation_quote": "",
+  "source_url": "https://www.davaolight.com/post/higher-generation-charge-drives-july-2026-electricity-rate"
+ },
+ {
+  "month": "August 2026",
+  "residential_rate": "14.96",
+  "residential_rate_quote": "As a result, the overall residential rate for August settles at ₱14.96/kWh",
+  "generation_charge": "not in source",
+  "generation_quote": "",
+  "source_url": "https://www.visayanelectric.com/post/visayan-electric-shields-consumers-limiting-august-rate-adjustment-to-p0-06-kwh-versus-projected-p"
+ },
+ {
+  "source_url": "https://mbasic.facebook.com/benguetelectric",
+  "reader": "no text (unreachable)"
+ },
+ {
+  "source_url": "https://mbasic.facebook.com/SOLECOInc",
+  "reader": "no text (unreachable)"
+ }
+]

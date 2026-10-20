@@ -1,0 +1,52 @@
+BREAKDOWN OF GENERATION CHARGE
+                                                                                                                                                                               (C)
+                                                                                                                                                                                                   (D = B+ C)         [D/A]
+                                                                                                                                                     (B)                   Other Cost
+                                                                                                   % of Total               (A)                                                                      Total          Average
+                                                                                                                                                    Basic               Adjustments (NSS
+                                            Source                                                   kWh                   kWh                                                                 Generation Cost for Generation
+                                                                                                                                                Generation Cost         and Other Billing
+                                                                                                   Purchased             Purchased                                                                the Month            Cost
+                                                                                                                                                    (PhP)                 Adjustments)
+                                                                                                                                                                                                     (PhP)         (PhP/kWh)
+                                                                                                                                                                              (PhP)
+BILATERAL CONTRACTS WITH POWER SUPPLIERS
+
+   1. First Gas Power Corporation (FGPC) – Santa Rita                                                  15.5%                   468,596,896              5,326,882,862            21,737,425           5,348,620,288    11.4141
+   2. FGP Corp. (FGP) – San Lorenzo                                                                     9.1%                   274,498,179              3,039,685,810            19,475,837           3,059,161,647    11.1446
+      Subtotal - Independent Power Producers (IPPs) - First Gas/Prime CoreGen                         24.5%                743,095,075              8,366,568,673              41,213,262          8,407,781,935      11.3145
+   3. San Buenaventura Power Ltd. Co. (SBPL)                                                            8.3%                   252,638,333              1,681,027,364             4,032,110           1,685,059,474    6.6698
+   4. Solar Philippines Tarlac Corp. (SPTC)                                                             0.3%                     7,564,391                 26,587,513              (728,333)             25,859,180    3.4185
+   5. Powersource First Bulacan Solar Inc. (PFBS)                                                       0.3%                     7,832,325                 40,529,434                   -                40,529,434    5.1746
+   6. Prime Solar Solutions Corp. (PSSC)                                                                0.4%                    11,514,722                 63,305,641                   -                63,305,641    5.4978
+   7. South Premiere Power Corp. (SPPC) 2024                                                           16.1%                   488,477,923              6,159,117,950            32,551,606           6,191,669,557    12.6754
+   8. Excellent Energy Resources Inc. (EERI)                                                           13.9%                   422,524,820              6,549,862,243            31,366,830           6,581,229,073    15.5760
+   9. GNPower Dinginin (GNPD) 2025 (300 MW)                                                             5.8%                   176,840,576              1,144,339,438             6,156,429           1,150,495,867    6.5058
+  10. Palauig Solar 1 Inc. (PS1I)                                                                       1.7%                    51,708,000                422,560,088                   -               422,560,088    8.1720
+  11. Mariveles Power Generation Corporation (MPGC)                                                     4.6%                   138,553,528              1,118,246,131             4,674,817           1,122,920,948    8.1046
+  12. GNPower Dinginin (GNPD) 2025 (100 MW)                                                             2.0%                    61,428,372                226,917,992               991,724             227,909,716    3.7102
+  13. GNPower Dinginin (GNPD) 2025 (400 MW)                                                             4.9%                   147,572,757              1,004,570,555             3,212,230           1,007,782,786    6.8291
+  14. Masinloc Power Co. Ltd. (MPCL)                                                                    5.6%                   171,162,394              1,416,217,054             3,659,630           1,419,876,683    8.2955
+  15. San Roque Hydropower, Inc. (SRHI)                                                                 4.2%                   126,480,000                878,662,029                   -               878,662,029    6.9470
+  16. ACEN Corporation (Mid-Merit) (ERC Case No. 2019-078 RC)                                           0.0%                           -                          -              16,378,973              16,378,973    0.0000
+  17. ACEN Corporation (Baseload) (ERC Case No. 2019-079 RC)                                            0.0%                           -                          -             113,136,239             113,136,239    0.0000
+  18. South Premiere Power Corp. (SPPC) (Baseload) (ERC Case No. 2019-081 RC)                           0.0%                           -                          -             377,929,634             377,929,634    0.0000
+  19. Sual Power Inc. (SPI) (Baseload) (ERC Case No. 2019-083 RC)                                       0.0%                           -                          -             318,783,343             318,783,343    0.0000
+  20. Panay Energy Development Corp. (PEDC) (ERC Case No. 2022-001 RC)                                  0.0%                           -                          -              28,208,231              28,208,231    0.0000
+  21. SanMar Solar Inc. (SSI)                                                                           0.3%                     7,812,000                 63,932,946                   -                63,932,946    8.1839
+  22. Terra Solar Philippines, Inc. (TSPI)                                                              5.3%                   159,550,175                 54,734,414                   -                54,734,414    0.3431
+      Subtotal - Power Supply Agreements (PSAs)                                                       73.6%              2,231,660,316             20,850,610,791             940,353,463         21,790,964,254       9.7645
+Wholesale Electricity Spot Market (WESM)                                                               2.1%                 62,071,433                170,148,666             314,975,807            485,124,473       7.8156
+Export Energy from Net Metering Customers                                                             0.26%                  7,864,475                 75,791,647                     -               75,791,647       9.6372
+Others*                                                                                              (0.38%)               (11,548,173)                       -                       -                      -              -
+TOTAL                                                                                                100.0%              3,033,143,126             29,463,119,777           1,296,542,532         30,759,662,309      10.1412
+Other Generation Adjustments (OGA)
+    1. Pilferage Recovery                                                                                                                                                                                             (0.0240)
+    2. ILP Recovery                                                                                                                                                                                                    0.0067
+    3. High Load Factor Rider                                                                                                                                                                                          0.0000
+    4. TOU Differential                                                                                                                                                                                                0.0065
+    5. GOUR Recovery**                                                                                                                                                                                                 0.0701
+OCTOBER 2026 GENERATION CHARGE                                                                                                                                                                                        10.2005
+*Includes adjustment to align the total energy with metered energy inputs, in accordance with Resolution No. 14, Series of 2022 and energy volumes for microgrids
+**Consolidated Decision on ERC Case Nos. 2014-050 CF, 2017-060 CF, 2020-018 CF, and 2023-046 CF promulgated July 31, 2026
+

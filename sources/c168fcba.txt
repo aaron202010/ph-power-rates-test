@@ -1,0 +1,32 @@
+ANGELES ELECTRIC CORPORATION
+BREAKDOWN OF GENERATION CHARGE                                                                                                                                        ANNEX A
+Billing Month: OCTOBER 2026
+
+
+                                                                                                 (C)
+                                                                                              Other Cost                             E = (D / A)          (F)
+                                                                                 (B)                               (D = B + C)                                           G = (E-F)
+                                               % to Total      (A)                           Adjustments                              Average       Previous Month
+                                                                         Basic Generation                       Total Generation                                        Increase /
+                    SOURCE                        kWh         kWh                           (DAA, NSS and                           Generation          Average
+                                                                                Cost                           Cost for the Month                                      (Decrease)
+                                               Purchased    Purchased                        Other Billing                              Rate        Generation Rate
+                                                                               (PhP)                                  (PhP)                                            (Php/kWh)
+                                                                                             Adjustments                            (Php/kWh)         (Php/kWh)
+                                                                                                (PhP)
+Bilateral Contracts with IPPs:
+1. GNPower Mariveles Energy Center (GMEC)         46%       31,675,853    238,623,297.02                          238,623,297.02          7.5333            6.8342          0.6991
+2. Anda Power Corp. (ANDA)                        16%       10,816,250     88,216,442.43                           88,216,442.43          8.1559            7.9756          0.1804
+3. SP New Energy Corp. (SPNEC)                    4%         3,031,800      9,357,044.33                            9,357,044.33          3.0863            3.0863             -
+4. Angeles Power Inc. (API)                       1%           373,590     21,687,013.87                           21,687,013.87          58.050            85.430          (27.38)
+WESM (Spot Market)                                31%       21,245,230    125,578,173.15      (2,150,317.70)      123,427,855.45          5.8097            5.6570          0.1527
+Net Metering (NM) Export                          2%         1,251,051      8,284,334.69                            8,284,334.69          6.6219            7.5936         (0.9717)
+Distributed Energy Resources (DER) Export         0%             1,050          4,171.80                                4,171.80          3.9731            4.5562         (0.5830)
+                                                 100%       68,394,824    491,750,477.29                          489,600,159.59
+Less: Pilferage Cost Recoveries (PhP)                                                                                 (86,886.05)        (0.0013)
+       50% Prompt Payment & Other Discounts                                                                        (1,405,867.97)        (0.0206)
+TOTAL                                                       68,394,824                                            488,107,405.57          7.1366
+Other Generation Adj. (ERC Case 2011-097 RC)                                                                                              0.1183
+
+Blended Generation Rate (PhP/kWh)                                                                                                         7.2549             6.7402         0.5147
+

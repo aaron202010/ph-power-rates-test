@@ -1,0 +1,38 @@
+Read this electricity rate publication from a Philippine distribution utility. Return ONLY a JSON object with keys: month (the billing month and year the publication is for, as written), residential_rate (the overall residential rate in PhP per kWh if the text states one, else "not in source"), residential_rate_quote (the exact text that states it, max 25 words, or ""), generation_charge (the generation charge or generation rate in PhP per kWh if stated as a level, else "not in source"), generation_quote (exact text, max 25 words, or ""). Rules: copy numbers exactly as printed, never compute or round, a change (increase or decrease) is not a level, if several residential numbers exist pick the one labelled as the overall or total residential rate and say which in the quote.
+
+TEXT:
+                                                                      BREAKDOWN OF GENERATION CHARGE
+                                                                                Billing Cycle: October 2026
+                                                                    (Power Purchases Covering: 26 Aug 2026 - 25 Sep 2026)
+                                                                                      Energy                      Basic              Other Cost              Total
+                     Power                             % Share on Energy             Purchased                Generation Cost        Adjustment          Generation Cost
+                    Supplier                               Purchased                    kWh                        PhP                  PhP                    PhP
+                                                                                         (A)                       (B)                  (C)                 (D = B+C)
+KEPCO SPC Power Corp.                                       24.1%                       14,580,000.00              76,088,073.52          170,344.74          76,258,418.26
+
+Energy Development Corp.                                    17.2%                       10,439,500.00              66,748,115.40                  -           66,748,115.40
+
+Panay Energy Development Corp.                              10.9%                         6,610,000.00             45,397,709.79                  -           45,397,709.79
+
+Palm Concepcion Power Corp.                                 23.4%                       14,150,000.00              96,117,630.00                  -           96,117,630.00
+
+Urban Energy Development Corp.                               1.6%                          990,895.62                4,607,664.62                 -            4,607,664.62
+
+Spot Market (WESM)                                          22.2%                        13,421,696.86             170,576,914.71       -15,977,619.54       154,599,295.17
+
+Net Metering + DER Export                                    0.6%                           363,213.70               2,745,825.12                              2,745,825.12
+
+Others:
+
+    Pilferage Cost Recoveries                                                                                                                                   (269,439.85)
+
+    Prompt Payment Discounts
+
+TOTAL                                                      100.00%                      60,555,306.18             462,281,933.16 -     15,807,274.80        446,205,218.50
+
+GENERATION RATE, PHP/KWH                                                                                                                                           7.3686
+Other Generation Adjustment (ERC Case No. 2024-034-CF)                                                                                                                  0.0520
+Automatic OU Adjustment (Formula 15, ERC Res 10, Series 2022)                                                                                                           0.2112
+TOTAL GENERATION RATE, PHP/KWH                                                                                                                                     7.6318
+Note: Total Generation Charge shown is VAT Exclusive
+

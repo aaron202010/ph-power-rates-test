@@ -1,0 +1,80 @@
+Read this electricity rate publication from a Philippine distribution utility. Return ONLY a JSON object with keys: month (the billing month and year the publication is for, as written), residential_rate (the overall residential rate in PhP per kWh if the text states one, else "not in source"), residential_rate_quote (the exact text that states it, max 25 words, or ""), generation_charge (the generation charge or generation rate in PhP per kWh if stated as a level, else "not in source"), generation_quote (exact text, max 25 words, or ""). Rules: copy numbers exactly as printed, never compute or round, a change (increase or decrease) is not a level, if several residential numbers exist pick the one labelled as the overall or total residential rate and say which in the quote.
+
+TEXT:
+                                                                              APPROVED UNBUNDLED RATES FOR NON - LIFELINE CONSUMERS
+Effectivity Date: September 1, 2026                                                                                        Rev. No. 03                                                                                                                                  FO-ET-01
+
+
+                                                                                            OCTOBER 2026 BILLING MONTH
+
+                                                                                       OFF-GRID                                                                                                         MAIN-GRID
+                                                               TAGUBANHAN                        GIGANTES                                                                    LOW VOLTAGE                                             HIGHER VOLTAGE
+                          Particulars        Unit                        LOW VOLTAGE                 LOW VOLTAGE
+                                                                                                                                            RESIDENTIAL                                                                                                                GEOP
+                                                        RESIDENTIAL       Commercial/ RESIDENTIAL
+                                                                                                            Commercial      Public Bldg.                    Industrial    Commercial     Public Bldg.   Street Ligits   Industrial     Commercial     Public Bldg.
+                                                                         Public Building
+Generation Charges
+   Generation Energy Charge                PhP/kWh              7.6432             7.6432          7.6290        7.6290           7.6290          10.3414       10.3414       10.3414         10.3414        10.3414        10.3414        10.3414          10.3414
+   Power Act Reduction (PAR)               PhP/kWh             -0.3000                            -0.3000
+Transmission Charges
+   Transmission Energy Charge              PhP/kWh                                                                                                0.5971        0.5619        0.5619          0.5619          0.5619
+   Transmission Demand Charge              PhP/kW                                                                                                                                                                         138.1500        138.1500         138.1500     138.1500
+Ancillary Service Charges
+   Ancillary Service Energy Charge         PhP/kWh                                                                                                1.2999        1.2168        1.2168          1.2168          1.2168
+   Ancillary Service Demand Charge         PhP/kW                                                                                                                                                                         298.5900        298.5900         298.5900     298.5900
+System Loss Charge
+    System Loss Charge                     PhP/kWh             0.0504              0.0504         0.4867        0.4867            0.4867          1.1641        1.1641        1.1641          1.1641          1.1641        1.1641          1.1641           1.1641       1.1641
+Distribution Charges
+   Distribution Energy Charge              PhP/kWh             0.5143              0.5134         0.5143        0.5134            0.5134          0.5143        0.5134        0.5134          0.5134          0.5134
+   Distribution Demand Charge              PhP/kW                                                                                                                                                                         190.0300        190.0300         190.0300     190.0300
+Supply Charges
+   Supply Energy Charge                     PhP/kWh            0.5828                             0.5828                                          0.5828
+   Supply Retail Customer Charge          PhP/Cust/Mo                            41.6100                       41.6100          41.6100                        41.6100       41.6100         41.6100         41.6100       41.6100         41.6100          41.6100      41.6100
+Metering Charges
+   Metering Energy Charge                   PhP/kWh            0.3669                             0.3669                                          0.3669
+   Metering Retail Customer Charge        PhP/Cust/Mo          5.0000            31.1900          5.0000       31.1900          31.1900           5.0000       31.1900       31.1900         31.1900         31.1900       31.1900         31.1900          31.1900      31.1900
+Loan Condonation
+   Loan Condonation                        PhP/kWh
+   Loan Condonation                         PhP/Mo
+Inter-Class Cross Subsidy
+  ICCS Adj.                                PhP/kWh                                             (0.0061)         (0.0061)         (0.0061)        (0.0061)      (0.0061)       (0.0061)       (0.0061)        (0.0061)
+Other Charges
+   Lifeline Subsidy Charge                 PhP/kWh             0.0100              0.0100         0.0100        0.0100            0.0100          0.0100        0.0100        0.0100          0.0100          0.0100        0.0100          0.0100           0.0100       0.0100
+   OLRA                                    PhP/kWh                                                0.0028        0.0028            0.0028          0.0028        0.0028        0.0028          0.0028          0.0028        0.0028          0.0028           0.0028       0.0028
+   Sr. Citizen Subsidy Charge              PhP/kWh             0.0002              0.0002         0.0002        0.0002            0.0002          0.0002        0.0002        0.0002          0.0002          0.0002        0.0002          0.0002           0.0002       0.0002
+   RE Developer                            PhP/kWh             0.0101              0.0101         0.0101        0.0101            0.0101          0.0101        0.0101        0.0101          0.0101          0.0101        0.0101          0.0101           0.0101       0.0101
+   NPC Stranded Debts                      PhP/kWh             0.0428              0.0428         0.0428        0.0428            0.0428          0.0428        0.0428        0.0428          0.0428          0.0428        0.0428          0.0428           0.0428       0.0428
+Reinstated Prompt Payment Discount
+  RPPD Adj.                                 PhP/kWh                                                                                              (0.0003)
+                                          PhP/Cust/Mo                                                                                                          (0.1843)       (0.1843)       (0.1843)        (0.1843)      (6.0229)        (6.0229)         (6.0229)     (6.0229)
+Reinvestment Fund/MCC
+  Reinvestment Fund/MCC                    PhP/kWh             0.4231              0.4231         0.4231        0.4231            0.4231          0.4231        0.4231        0.4231          0.4231          0.4231        0.4231          0.4231           0.4231       0.4231
+Local Franchise Tax
+  LFT Adj.                                 PhP/kWh                                                0.0081        0.0081            0.0081          0.0081        0.0081        0.0081          0.0081          0.0081        0.0081          0.0081           0.0081       0.0081
+*Business Tax
+  *OBTA                                    PhP/kWh                                                                                                0.0041        0.0041        0.0041          0.0041          0.0041        0.0041          0.0041           0.0041       0.0041
+Real Property Tax
+  RPT Adj                                  PhP/kWh                                                0.0003        0.0003            0.0003          0.0003        0.0003        0.0003          0.0003          0.0003        0.0003          0.0003           0.0003       0.0003
+Universal Charge
+   Missionary Electrification              PhP/kWh             0.3296              0.3296         0.3296        0.3296            0.3296          0.3296        0.3296        0.3296          0.3296          0.3296        0.3296          0.3296           0.3296       0.3296
+   Environmental Charge                    PhP/kWh             0.0025              0.0025         0.0025        0.0025            0.0025          0.0025        0.0025        0.0025          0.0025          0.0025        0.0025          0.0025           0.0025       0.0025
+    UCME True-Up (CY 2013)                 PhP/kWh             0.0000              0.0000         0.0000        0.0000            0.0000          0.0000        0.0000        0.0000          0.0000          0.0000        0.0000          0.0000           0.0000       0.0000
+    UCME True-Up (CY 2014)                 PhP/kWh             0.0000              0.0000         0.0000        0.0000            0.0000          0.0000        0.0000        0.0000          0.0000          0.0000        0.0000          0.0000           0.0000       0.0000
+REC Rate                                   PhP/kWh                                                                                                0.0052        0.0052        0.0052          0.0052          0.0052        0.0052          0.0052           0.0052
+FIT & GEA Allowance
+   FIT-All                                 PhP/kWh                                                                                                0.3359        0.3359        0.3359          0.3359         0.3359         0.3359         0.3359           0.3359        0.3359
+   GEA-All                                 PhP/kWh                                                                                                0.0000        0.0000        0.0000          0.0000         0.0000         0.0000         0.0000           0.0000        0.0000
+TOTAL ENERGY CHARGES                       PhP/kWh            9.6759             9.0253       10.1031          9.4525           9.4525          16.0348       14.9662       14.9662         14.9662        14.9662        12.6802        12.6802          12.6802        2.3336
+VAT
+  Generation                               PhP/kWh             0.8552              0.8552         0.8586        0.8586            0.8586          0.5185        0.5185        0.5185          0.5185          0.5185        0.5185          0.5185           0.5185
+  Transmission                             PhP/kWh                                                                                                 0.0731        0.0684        0.0684          0.0684          0.0684        0.0657          0.0657           0.0657      0.0657
+  Ancillary Service Charge                 PhP/kWh                                                                                                 0.1461        0.1368        0.1368          0.1368          0.1368        0.1313          0.1313           0.1313      0.1313
+  System Loss                              PhP/kWh
+  Distribution (12%)                       PhP/kWh             0.1757              0.0616         0.1757        0.0616            0.0616          0.1757        0.0616        0.0616          0.0616          0.0616       22.8046         22.8046          22.8046      22.8046
+  Others (Lifeline Subsidy Charge, 12%)    PhP/kWh
+TOTAL VAT CHARGES                           PhP/kWh           1.0309             0.9168        1.0343          0.9202           0.9202           0.9134        0.7853        0.7853          0.7853         0.7853        0.7155          0.7155           0.7155        0.1970
+TOTAL DEMAND CHARGES                        PhP/kW                                                 -               -                -                -             -             -               -              -       626.7700        626.7700         626.7700      626.7700
+TOTAL FIXED CHARGES                       PhP/Cust/Mo         5.0000            72.8000        5.0000         72.8000          72.8000           5.0000       72.8000       72.8000         72.8000        72.8000       72.8000         72.8000          72.8000       72.8000
+*Charge to Sara consumers only.
+

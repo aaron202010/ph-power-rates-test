@@ -1,0 +1,87 @@
+[
+ {
+  "utility": "Meralco",
+  "format": "web",
+  "url": "https://company.meralco.com.ph/news-and-advisories/higher-residential-rates-october-2026",
+  "month_pattern": "rate for the month of (\\w+)(?:\\s|\\.)",
+  "residential_rate_php_per_kwh": "overall rate for a typical household to P\\s?(\\d+\\.\\d{2,4})",
+  "rate_basis": "overall residential rate, typical household, as stated in the advisory",
+  "generation_basis": "advisory states the change in the generation charge, not its level",
+  "year_pattern": "\\d{1,2} OCTOBER (\\d{4})"
+ },
+ {
+  "utility": "Meralco",
+  "format": "pdf",
+  "url": "https://meralcomain.s3.ap-southeast-1.amazonaws.com/2026-10/10-2026_gc_table_0.pdf",
+  "month_pattern": "(\\w+ \\d{4}) GENERATION CHARGE",
+  "generation_charge_php_per_kwh": "\\w+ \\d{4} GENERATION CHARGE\\s+(\\d+\\.\\d{2,4})",
+  "generation_basis": "average generation charge, PhP/kWh, from the breakdown table",
+  "rate_basis": "the generation charge table carries no total residential rate"
+ },
+ {
+  "utility": "ILECO III",
+  "format": "pdf",
+  "url": "https://ileco3.com/wp-content/uploads/2026/10/AUR_202610.pdf",
+  "month_pattern": "(\\w+ \\d{4}) BILLING MONTH",
+  "residential_rate_php_per_kwh": "TOTAL ENERGY CHARGES\\s+PhP/kWh\\s+(\\d+\\.\\d{2,4})",
+  "rate_basis": "total energy charges, residential column, VAT exclusive (the AUR has no single effective rate line)",
+  "generation_charge_php_per_kwh": "Generation Energy Charge\\s+PhP/kWh\\s+(\\d+\\.\\d{2,4})",
+  "generation_basis": "generation energy charge, residential column"
+ },
+ {
+  "utility": "MORE Power (Iloilo City)",
+  "format": "pdf",
+  "url": "https://morepower.com.ph/wp-content/uploads/2026/10/Generation-Charge_October-2026-Web-Upload.pdf",
+  "month_pattern": "Billing Cycle:\\s*(\\w+ \\d{4})",
+  "generation_charge_php_per_kwh": "TOTAL GENERATION RATE, PHP/KWH\\s+(\\d+\\.\\d{2,4})",
+  "generation_basis": "total generation rate, VAT exclusive, as labelled",
+  "rate_basis": "generation charge breakdown only, no total residential rate"
+ },
+ {
+  "utility": "Angeles Electric",
+  "format": "pdf",
+  "url": "https://angeleselectric.com.ph/wp-content/uploads/2026/10/OCTOBER-2026-Breakdown-of-Generation-Charge-Annex-A-1.pdf",
+  "month_pattern": "Billing Month:\\s*(\\w+ \\d{4})",
+  "generation_charge_php_per_kwh": "Blended Generation Rate \\(PhP/kWh\\)\\s+(\\d+\\.\\d{2,4})",
+  "generation_basis": "blended generation rate, as labelled",
+  "rate_basis": "generation charge breakdown only, no total residential rate"
+ },
+ {
+  "utility": "BENECO (Benguet)",
+  "format": "web",
+  "url": "https://www.beneco.com.ph/rates.php",
+  "month_pattern": "Billing month:\\s*(\\w+ \\d{4})",
+  "residential_rate_php_per_kwh": "Residential\\n₱\\s?(\\d+\\.\\d{2,4}) /kWh",
+  "rate_basis": "published residential rate per kWh for the billing month",
+  "generation_basis": "the rates page lists customer class rates, not the generation charge"
+ },
+ {
+  "utility": "Davao Light",
+  "format": "web",
+  "url": "https://www.davaolight.com/post/higher-generation-charge-drives-july-2026-electricity-rate",
+  "month_pattern": "billing period of (\\w+) \\d+ to \\w+ \\d+, (\\d{4})",
+  "residential_rate_php_per_kwh": "bringing the rate to P(\\d+\\.\\d{2,4})/kWh",
+  "rate_basis": "overall residential rate for the billing period July 11 to August 10, 2026",
+  "generation_basis": "advisory names the generation charge as the driver without a level"
+ },
+ {
+  "utility": "Visayan Electric (Cebu)",
+  "format": "web",
+  "url": "https://www.visayanelectric.com/post/visayan-electric-shields-consumers-limiting-august-rate-adjustment-to-p0-06-kwh-versus-projected-p",
+  "month_pattern": "overall residential rate for (\\w+) settles",
+  "year_pattern_html": "datePublished\\W+(\\d{4})-",
+  "residential_rate_php_per_kwh": "overall residential rate for \\w+ settles at ₱\\s?(\\d+\\.\\d{2,4})",
+  "rate_basis": "overall residential rate for the August 2026 billing, as stated in the advisory",
+  "generation_basis": "advisory names generation costs as the driver without a level"
+ },
+ {
+  "utility": "BENECO (Benguet)",
+  "format": "facebook",
+  "url": "https://mbasic.facebook.com/benguetelectric"
+ },
+ {
+  "utility": "SOLECO (Southern Leyte)",
+  "format": "facebook",
+  "url": "https://mbasic.facebook.com/SOLECOInc"
+ }
+]

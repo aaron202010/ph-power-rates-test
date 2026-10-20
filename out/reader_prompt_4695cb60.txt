@@ -1,0 +1,115 @@
+Read this electricity rate publication from a Philippine distribution utility. Return ONLY a JSON object with keys: month (the billing month and year the publication is for, as written), residential_rate (the overall residential rate in PhP per kWh if the text states one, else "not in source"), residential_rate_quote (the exact text that states it, max 25 words, or ""), generation_charge (the generation charge or generation rate in PhP per kWh if stated as a level, else "not in source"), generation_quote (exact text, max 25 words, or ""). Rules: copy numbers exactly as printed, never compute or round, a change (increase or decrease) is not a level, if several residential numbers exist pick the one labelled as the overall or total residential rate and say which in the quote.
+
+TEXT:
+-->
+Visayan Electric shields consumers, limiting August rate adjustment to P0.06/kWh versus projected P2.10/kWh
+top of page
+About Us
+Our Story
+IMS Policy Statement
+Customer Services
+Net Metering
+Payment Channels
+Announcements
+Invitation to Bid
+Competitive Selection Process
+Service Advisory
+FAQs & Rates
+Newsroom
+Contact Us
+About Us
+Our Story
+IMS Policy Statement
+Our Story
+IMS Policy Statement
+Customer Services
+Net Metering
+Payment Channels
+Announcements
+Invitation to Bid
+Competitive Selection Process
+Service Advisory
+FAQs & Rates
+Net Metering
+Payment Channels
+Announcements
+Invitation to Bid
+Competitive Selection Process
+Service Advisory
+FAQs & Rates
+Newsroom
+Contact Us
+Menu
+Close
+News & Advisories
+Visayan Electric shields consumers, limiting August rate adjustment to P0.06/kWh versus projected P2.10/kWh
+Aug 20
+2 min read
+CEBU CITY, Philippines — August 20, 2026 — Following close coordination with the Energy Regulatory Commission (ERC), partner power suppliers, and the implementation of mitigation measures, Visayan Electric has successfully shielded its residential consumers from a multi-peso price spike in this month's billing cycle.
+Through these decisive interventions, the utility limited the August rate adjustment to a minimal ₱0.06 per kilowatt-hour (kWh)— versus a projected ₱2.10/kWh spike driven by severe regional grid shortages.
+As a result, the overall residential rate for August settles at ₱14.96/kWh, insulating Metro Cebu households from what would have otherwise been a heavy ₱17.00/kWh rate.
+For a typical household consuming 200 kWh per month, Visayan Electric’s intervention means paying just ₱12 more on their monthly bill—effectively saving families an estimated ₱420 in potential added costs this month.
+The rate adjustment is primarily driven by surging prices in the Wholesale Electricity Spot Market (WESM), higher transmission charges resulting from increased ancillary services cost, and an ongoing power supply deficiency across the Visayas Grid. Despite these external pressures, Visayan Electric continues to work proactively to insulate its customers from severe price swings.
+Visayan Electric President and General Manager Mark Anthony Kindica emphasized the company's commitment to prioritizing consumer welfare through these regional grid challenges.
+“We understand the importance of every peso to our customers, which is why Visayan Electric continuously works to optimize our power sourcing and keep rate adjustments to an absolute minimum. As we enter the 'Ber' months, we remain hopeful that cooler seasonal temperatures will help lower overall grid demand, stabilize market prices, and bring welcome relief to our consumers' monthly bills,” said Kindica.
+To help you manage electricity consumption and maximize savings during fluctuating grid rates, Visayan Electric encourages you to adopt these simple energy-saving habits:
+Optimize Cooling: Set air conditioners to 24°C–25°C for the ideal balance between comfort and efficiency.
+Unplug Idle Devices: Reduce phantom power consumption by unplugging appliances when not in use.
+Monitor Your Usage: Leverage the Visayan Electric Appliance Calculator available at www.visayanelectric.com to accurately estimate your household electricity costs.
+Report Illegal Connections: Help combat electricity theft by reporting anonymously via:
+Cell: 09277955258
+Email: rpd@visayanelectric.com
+Online: https://tinyurl.com/ym8mu3wn
+Visayan Electric remains dedicated to delivering safe, reliable, and reasonably priced power, while providing continuous support and guidance to its customers.
+About Visayan Electric
+Visayan Electric Company, Inc. is the largest private electric distribution utility in the Visayas, serving Metro Cebu and neighboring municipalities. It is a member of the Aboitiz Power Distribution Utilities (APDU) group, which includes Davao Light, Cotabato Light, and the EnerZone group of utilities. Visayan Electric is committed to delivering safe, reliable, and reasonably priced electricity to its franchise areas.
+Rates
+Related Posts
+See All
+Visayan Electric secures ERC approval to reduce July rate impact on consumers
+June Power Rates Impacted by Tight Supply Conditions and Rising Generation Costs
+Visayan Electric Keeps May Rate Increase Moderate Amid Fuel Cost Pressures and Grid Alerts
+Categories
+All News (545) 545 posts
+Digitalization (3) 3 posts
+Recognitions (4) 4 posts
+Sustainability (5) 5 posts
+Service Advisory (151) 151 posts
+Careers (1) 1 post
+Innovation (2) 2 posts
+Press Release (63) 63 posts
+Competitive Selection Process (1) 1 post
+Invitation to Bid (52) 52 posts
+Rates (21) 21 posts
+Annual Stockholders' Meeting (4) 4 posts
+Latest News
+Visayan Electric Brings Christmas Joy to Pari-an Drop-in Center
+Press Release
+Dec 11, 2025
+Visayan Electric opens new service center in Banawa
+Sep 30, 2025
+Visayan Electric appoints new OIC - President and General Manager
+Press Release
+Jun 4, 2025
+2024 Annual Stockholders’ Meeting
+Annual Stockholders' Meeting
+Apr 30, 2024
+Recognized as the Philippines’ second largest distribution utility, Visayan Electric Company Inc. (Visayan Electric) provides reliable power supply to the cities of Cebu, Mandaue, Talisay, and Naga, and the municipalities of Liloan, Consolacion, Minglanilla, and San Fernando in greater Metro Cebu.
+Get in touch with us
+VECO Engineering Office,
+J. Panis Street, Banilad, Cebu City
++63-32 230-8326 / 0919-056-VECO (8326)
+About Us
+Our Story
+IMS Policy Statement
+Customer Services
+Net Metering
+Payment Channels
+Announcements
+Invitation to Bid
+Competitive Selection Process
+Service Advisory
+FAQs & Rates
+Newsroom
+Contact Us
+bottom of page
